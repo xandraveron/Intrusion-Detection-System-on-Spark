@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.vemv*/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Generated pipeline artifacts (re-created by running the scripts)
+artifacts/
+
+# Run logs
+run_log_*.txt
+
+# Word temp files
+~$*.docx
+~$*.doc
+
+# Word/PDF documents (keep in docs/ as .md instead)
+*.docx
+*.doc
+spark_the_definitve_guide.pdf
+
+# Spark event logs / warehouse
+spark-warehouse/
+derby.log
+metastore_db/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Local-only files (not for repo)
+implement*.ipynb
+implement*.py
+Implementation.py
+test_spark.py
+scripts/run_full_grid.ps1
+
+# Results — to be added after full grid run completes
+results/
+docs/results.md
+
+# Data files (large — download from https://www.unb.ca/cic/datasets/nsl.html)
+*.arff
+nsl-kdd/
+KDDTrain+.txt
+KDDTest+.txt
+KDDTrain+_20Percent.txt
+KDDTest-21.txt
+*.jpg

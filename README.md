@@ -181,3 +181,13 @@ The script automatically starts and stops the Spark cluster between configuratio
     ├── methodology.md        # Design decisions and approach
     └── results.md            # Results analysis and tables
 ```
+
+## References
+
+This project is based on and inspired by:
+
+> M. Haggag, M. M. Tantawy and M. M. S. El-Soudani, "Implementing a Deep Learning Model for Intrusion Detection on Apache Spark Platform," *IEEE Access*, vol. 8, pp. 163660-163672, 2020. doi: [10.1109/ACCESS.2020.3019931](https://doi.org/10.1109/ACCESS.2020.3019931)
+
+**Dataset:**
+> M. Tavallaee, E. Bagheri, W. Lu, and A. Ghorbani, "A Detailed Analysis of the KDD CUP 99 Data Set," *Proc. IEEE Symp. Computational Intelligence in Security and Defense Applications (CISDA)*, 2009.
+> Download: https://www.unb.ca/cic/datasets/nsl.html

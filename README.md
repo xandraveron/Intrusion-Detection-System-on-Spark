@@ -15,6 +15,8 @@
   - [Full Spark Grid (automated)](#full-spark-grid-automated)
 - [Configuration Reference](#configuration-reference)
 - [Project Structure](#project-structure)
+- [References](#references)
+  
 
 ---
 

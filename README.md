@@ -1,6 +1,6 @@
 # Intrusion Detection with Apache Spark & Deep Learning
 
-Federated deep learning for network intrusion detection — MLP, RNN, and LSTM models distributed with Apache Spark on NSL-KDD dataset.
+## Federated deep learning for network intrusion detection — MLP, RNN, and LSTM models distributed with Apache Spark on NSL-KDD dataset.
 
 ---
 
